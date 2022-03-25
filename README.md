@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erfan00725
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in game an web development
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
