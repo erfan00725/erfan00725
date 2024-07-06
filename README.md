@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erfan00725
+- 👋 Hi, I’m erfan sedighi
 - 👀 I’m interested in game an web development
 - 🌱 I’m currently learning react js, laravel, unity
 
