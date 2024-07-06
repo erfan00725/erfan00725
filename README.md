@@ -1,6 +1,6 @@
 - 👋 Hi, I’m erfan sedighi
 - 👀 I’m interested in game an web development
-- 🌱 I’m currently learning react js, laravel, unity
+- 🌱 I’m currently learning react js, laravel and unity
 
 <!---
 - 💞️ I’m looking to collaborate on ...
